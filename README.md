@@ -1,4 +1,4 @@
-# Project Title: Basic Coordinate Geometry with OpenGL
+# Basic Coordinate Geometry with OpenGL
 
 The primary goal of this project is to refresh basic coordinate geometry knowledge and get acquainted with OpenGL. The program allows you to plot points with mouse clicks on a tastefully chosen gray background, fit lines to the points, move the lines, and finally create new points from the intersections of the selected lines. The point size is 10 and the line thickness is 3.
 
